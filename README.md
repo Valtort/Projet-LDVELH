@@ -14,27 +14,27 @@ Vous retrouverez les fichiers livre.txt écrit par mon professeur d'informatique
 *Exemple de LDVELH assez court*
 
 
+## Formes des fichiers textes
 
+1. Un fichier .txt correspondant à un livre jouable est de la forme : 
 
-Un fichier .txt correspondant à un livre jouable est de la forme : 
+  - Entier qui indique le nombre de pages.
 
-Entier qui indique le nombre de pages.
+  - Suivi d'autant de pages qu'indiqué.
 
-Suivi d'autant de pages qu'indiqué.
+    - Chaques pages sont de la formes : 
 
-Chaques pages sont de la formes : 
+    - Entier qui indique le nombre de choix.
 
-Entier qui indique le nombre de choix.
+    - Texte de la page actuelle.
 
-Texte de la page actuelle.
+    - Suivi d'autant de choix qu'indiqué.
 
-Suivi d'autant de choix qu'indiqué.
+      - Chaques choix sont de la formes :
 
-Chaques choix sont de la formes :
+      - Texte qui décrit le choix.
 
-Texte qui décrit le choix.
-
-Page à laquelle mène ce choix.
+      - Page à laquelle mène ce choix.
 
 --------------------------------
 
