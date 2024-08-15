@@ -9,6 +9,8 @@ Ce petit projet permet de jouer à un livre dont vous êtes le héros.
 
 Vous retrouverez les fichiers livre.txt écrit par mon professeur d'informatique ainsi que le fichier multiverse.txt co-écrit avec Corentin, un ancien élève de MPI*, ceux-ci contiennent des livres jouables avec le programme.
 
+Le fichier livre.txt servait surtout pour les tests du programme tandis que le fichier multiverse.txt sert à jouer.
+
 ![image](https://github.com/user-attachments/assets/cf822eb5-8142-42d6-8cae-551bce6e6eb4)
 
 *Exemple de LDVELH assez court*
